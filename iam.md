@@ -1,3 +1,4 @@
+
 # Identify and Access Management
 
  IAM allows to manage users and their accesses to AWS console.
@@ -15,7 +16,7 @@
 - New users have no permissions
 - New users are assigned for an access key and a secret access key when first created
 	- these credentials can be view only once
-
+ 
 
 ## Terminology
 

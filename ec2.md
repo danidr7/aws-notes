@@ -71,3 +71,10 @@
 	- **A**: for arm-based workloads
 	- **U**: for bare metal
 - The number in the family is the generation of the instance
+
+## Running instances 
+
+- Termination protection is disabled by default
+- Root EBS volume will be deleted by default when the instance is terminated
+- EBS root volumes can be encrypted
+- additional volumes can be encrypted
